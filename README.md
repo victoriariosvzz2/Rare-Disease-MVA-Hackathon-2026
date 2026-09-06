@@ -1,6 +1,3 @@
-# Rare-Disease-MVA-Hackathon-2026
-Repository for the Sage Bionetworks / MVA Society / Hugging Face Rare Disease Hackathon 2026 variant prioritization (Track 1) and drug repurposing analysis (Track 2) for a clinically undiagnosed case of Mosaic Variegated Aneuploidy (MVA).
-
 # MVA Rare Disease Hackathon 2026: Victoria Rios-Vazquez
 
 Submission repository for the **Sage Bionetworks × MVA Society × Hugging Face** Rare Disease Hackathon, addressing a real, clinically undiagnosed case of Mosaic Variegated Aneuploidy (MVA).
