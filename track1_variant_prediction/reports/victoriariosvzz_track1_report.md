@@ -1,7 +1,9 @@
-# Track 1 Methods Report -- victoriariosvzz
+# Track 1 Methods Report
 
+**Author:** Victoria Rios-Vazquez
 **Team name:** victoriariosvzz
 **Model number:** 1
+**Contact:** victoria.rios.vzz@gmail.com
 
 ## 1. Describe your model/approach in detail
 
@@ -72,7 +74,7 @@ refinement would be an explicit MHC-region exclusion filter earlier in the pipel
 
 ## 9. Runtime and cost estimate
 
-Approximately 39.9 minutes end-to-end. Colab free tier + free public
+Approximately 34.8 minutes end-to-end. Colab free tier + free public
 APIs; Anthropic API usage for one reranking call over 12 candidates (~$0.09).
 
 ## 10. Method abstract
